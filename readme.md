@@ -12,7 +12,6 @@ Supports basic arithmetic operations like addition, subtraction, multiplication,
 - ➗ Division (with error handling for division by zero)  
 - % Percentage calculation  
 - 🧹 Clear (C) and All Clear (AC) functions  
-- ⌫ Delete last digit  
 - Prevents multiple decimals in the same number  
 - Error handling (displays `ERROR` for invalid operations)  
 
