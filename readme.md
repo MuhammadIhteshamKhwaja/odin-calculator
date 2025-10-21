@@ -13,6 +13,10 @@ Supports basic arithmetic operations like addition, subtraction, multiplication,
 - % Percentage calculation  
 - 🧹 Clear (C) and All Clear (AC) functions  
 - Prevents multiple decimals in the same number  
-- Error handling (displays `ERROR` for invalid operations)  
+- Error handling (displays `ERROR` for invalid operations)
+
+  ## Live Preview :
+
+   -------  https://muhammadihteshamkhwaja.github.io/odin-calculator/   ------
 
 <------------>
